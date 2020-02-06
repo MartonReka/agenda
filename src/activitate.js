@@ -3,7 +3,7 @@ import { MDBBtn } from "mdbreact";
 class Activitate extends Component {
   render() {
     return (
-      <>
+      <div>
         <h4>
           {this.props.ora} - {this.props.titlu}
         </h4>
@@ -20,8 +20,9 @@ class Activitate extends Component {
         </h6>
         <p>Descriere: {this.props.descriere}</p>
         <hr />
-      </>
+      </div>
     );
   }
 }
+
 export default Activitate;
