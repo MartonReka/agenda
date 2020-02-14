@@ -16,7 +16,7 @@ class Program extends Component {
     ));
     return (
       <div>
-        <h2 className="text-center">Agenda zilei</h2>
+        <h2 className="text-center">Agenda personalizata</h2>
         <hr />
         {lista}
       </div>

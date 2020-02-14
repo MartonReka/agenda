@@ -11,24 +11,24 @@ class App extends Component {
       activitati: [
         {
           id: 1,
-          ora: "10:00",
-          titlu: "Întâlnire cu presa",
-          loc: "Sala G114",
-          descriere: "Nu este cazul"
+          ora: "08:00",
+          titlu: "Stomatologie",
+          loc: "Zoriilor",
+          descriere: "Adresa: Str.Ion Mester, nr.4A"
         },
         {
           id: 2,
-          ora: "10:30",
-          titlu: "Pauză de cafea",
-          loc: "Birou",
-          descriere: "Se dezbat diverse."
+          ora: "10:00",
+          titlu: "Aqua Swimm",
+          loc: "Sun Grigorescu",
+          descriere: "Durata de 2 ora"
         },
         {
           id: 3,
-          ora: "12:00",
-          titlu: "Pregătire curs",
+          ora: "12:00 - 18:00",
+          titlu: "Work",
           loc: "Birou",
-          descriere: "Pregătirea exemplelor."
+          descriere: ""
         }
       ]
     };
