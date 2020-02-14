@@ -28,7 +28,7 @@ class App extends Component {
           ora: "12:00 - 18:00",
           titlu: "Work",
           loc: "Birou",
-          descriere: ""
+          descriere: "Meeting de la ora 16:00"
         }
       ]
     };
